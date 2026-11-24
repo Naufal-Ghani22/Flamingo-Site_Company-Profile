@@ -58,9 +58,9 @@ assets/fonts/     Poppins, Instrument Serif Italic, Anton (woff2, subset Latin)
 assets/logo/      logo + favicon dari kit brand
 ```
 
-## Sebelum online
+## Online
 
-- Ganti `og:image` di `index.html` menjadi alamat lengkap (misal `https://flamingosite.id/assets/img/og-image.jpg`) supaya pratinjau link di WhatsApp/IG muncul.
+- Website live di https://flamingo-site-five.vercel.app (Vercel, terhubung ke repo ini: setiap push ke `main` otomatis tayang). Kalau nanti pakai domain sendiri, ganti alamat di `og:url`, `og:image`, dan `canonical` di `index.html`.
 - Harga di `data.js` adalah usulan awal yang selaras dengan rentang budget di Formulir Brief (di bawah 1,5 jt | 1,5–3 jt | 3–7 jt | di atas 7 jt). Sesuaikan dengan hitunganmu.
 
 ## Kredit
